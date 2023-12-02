@@ -1,6 +1,11 @@
 # Laravel-Admin-Portal
 A Laravel Based Admin Portal (Database : Mysql)
 
+Features :
+User Registration/Login
+Product Add/Updation/Deletion(CURD Operations)
+
+(Bootstrap Template has been used as Frontend template : https://startbootstrap.com/theme/sb-admin-2)
 #Screenshots
 ![register](https://github.com/Itsbijoshuman/Laravel-Admin-Portal-/assets/93047483/7e4a49f1-c168-4030-90cd-27242e125ad7)
 ![products1](https://github.com/Itsbijoshuman/Laravel-Admin-Portal-/assets/93047483/094efa47-075d-42de-a31f-64bb4748e430)
